@@ -1,63 +1,52 @@
-# 👋 Hi, I'm Ibrahim Refaat
+<h1 align="center">👾 Ibrahim Refaat — Cybersecurity Enthusiast | Ethical Hacker</h1>
 
-### Cybersecurity Specialist | Network & System Engineer | SOC Analyst
-
-![Cybersecurity GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-
----
-
-## 🌟 About Me
-I'm **Ibrahim Refaat**, a passionate **Cybersecurity Professional** with hands-on experience in **Network Security**, **SOC Analysis**, and **Pentesting**. I love identifying vulnerabilities, securing infrastructures, and improving organizational security posture.
-
-- 📍 Location: Nasr City, Cairo, Egypt  
-- 🎓 Education: Bachelor's in Arts – Geography, Minya University  
-- 💻 Current Role: Network & System Engineer at **YAMA Engineering Systems**  
+<p align="center">
+  <img src="https://media.giphy.com/media/xTiN0L7EW5trfOvEk0/giphy.gif" width="300"/>
+</p>
 
 ---
 
-## 🛡️ Skills
-
-**Security & Networking:**  
-SOC Analysis, Firewall Management (Sophos & FortiGate), IDS/IPS, SD-WAN, VLANs, VPNs  
-
-**Pentesting & Tools:**  
-Network & Web Pentesting, Vulnerability Assessment, Wireshark, Nmap, Metasploit basics  
-
-**Systems & DevOps:**  
-Windows & Linux Administration, VMware ESXi, Odoo ERP, Python  
+## 🧑‍💻 About Me
+- 🔐 Cybersecurity Engineer — SOC | Blue Team | Network Security  
+- 👨‍💻 Passionate about Ethical Hacking & Network Pentesting  
+- ⚙️ Skilled in: **FortiGate, Sophos, Cisco, Linux, Odoo Security, SIEM, IDS/IPS**  
+- 🎯 Always learning & breaking things (then fixing them again)
 
 ---
 
-## 💼 Experience
+## 🛠️ Tech Stack
+**Languages:**  
+`Python` | `Bash` | `JavaScript`
 
-**YAMA Engineering Systems** – Network & System Engineer  
-*May 2024 – Present*  
-- Implemented and managed Sophos & FortiGate Firewalls.  
-- Configured VLANs, routing, and security policies.  
-- Monitored security incidents and improved response efficiency.
+**Security Tools:**  
+`Wireshark` • `Nmap` • `Metasploit` • `Burp Suite` • `Splunk` • `ELK`  
+`Snort` • `Suricata` • `OpenVAS` • `Nessus`
 
-**Telecom Egypt** – Technical Support Engineer  
-*June 2021 – October 2023*  
-- Provided technical support for networking and security systems.  
-- Assisted in troubleshooting and network configuration.
-
-**SOC Analyst Training** – ITI  
-*Oct 2023 – Mar 2024*  
-- Hands-on training in monitoring, analyzing, and responding to security incidents.
+**Networking:**  
+`Cisco CCNA/CCNP` • `Firewalling` • `Routing & Switching`
 
 ---
 
-## 📜 Certifications
-CCNA, CCNP Security, CCNP ENCOR, CCNP SCOR, Sophos & FortiGate Certifications, MCSA, RHCSA, ECIR, CSA  
+## ⚡ What I Do
+- 🛡️ Threat Detection & Incident Response  
+- 🌐 Network Pentesting  
+- 🔥 Firewall Hardening & Monitoring  
+- 🧩 Writing Scripts to Automate Security Tasks
 
 ---
 
-## 📫 Contact
-- 📧 Email: [ibrahemrefaat2020@gmail.com](mailto:ibrahemrefaat2020@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/ibrahim-refaat](https://linkedin.com)  
-- 🖥 GitHub: [github.com/ibrahim-refaat](https://github.com)  
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="170"/>
+</p>
 
 ---
 
-## ⚡ Fun Fact
-I love exploring **new security tools** and **testing network vulnerabilities** just for the thrill of improving defenses! 🔒
+## 📫 Contact Me
+📧 **ibrahemrefaat2020@gmail.com**  
+💼 **LinkedIn:** (حط اللينك هنا)
+
+---
+
+<p align="center">⚡ “Hack the systems. Secure the world.” ⚡</p>
